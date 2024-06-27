@@ -21,31 +21,29 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Inteligência Artificial e Zielle: O Futuro da Tecnologia
+
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto mostra a utilização de uma inteligência artificial para fazer videos realistas apartir de fotos,
+utilizei a IA D-ID para fazer o vídeo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+D-ID
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Por meio da IA D-ID utilizei uma foto minha para fazer um vídeo em formato realista.
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Foi obtido um vídeo em que me apresento e falo sobre o bootcamp no qual estou participando.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
+O maior desafio é trazer um vídeo realista por meio de uma foto , visto que para criar vídeos melhores a maioria das IAS nesse gênero são pagas em dolar,
+é díficil criar um realismo de acordo com a realidade para a IA utilizada de forma gratuita.
 ```
 
 ### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)

@@ -30,7 +30,7 @@ foi utilizada a IA D-ID para fazer o vídeo, essa tarefa foi feita para um proje
 para desenvolvedores.
 
 ## 🤖 Tecnologias Utilizadas
-D-ID
+Inteligência Artificial Utilizada D-ID
 
 ## 🧐 Processo de Criação
 Por meio da IA D-ID utilizei uma foto minha para fazer um vídeo em formato realista.

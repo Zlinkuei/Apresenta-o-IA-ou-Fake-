@@ -17,9 +17,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
 1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
 
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
 Inteligência Artificial e Zielle: O Futuro da Tecnologia
 
@@ -38,6 +36,7 @@ Por meio da IA D-ID utilizei uma foto minha para fazer um vídeo em formato real
 
 ## 🚀 Resultados
 Foi obtido um vídeo em que me apresento e falo sobre o bootcamp no qual estou participando.
+- [Vídeo](https://github.com/Zlinkuei/Apresenta-o-IA-ou-Fake-/blob/main/video%20zielle.mp4/)
 
 
 ## 💭 Reflexão

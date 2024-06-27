@@ -39,7 +39,7 @@ Por meio da IA D-ID utilizei uma foto minha para fazer um vídeo em formato real
 ## 🚀 Resultados
 Foi obtido um vídeo em que me apresento e falo sobre o bootcamp no qual estou participando.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Comente sobre o desafio de criar algo 'natty' com IA.
 O maior desafio é trazer um vídeo realista por meio de uma foto , visto que para criar vídeos melhores a maioria das IAS nesse gênero são pagas em dolar,
 é díficil criar um realismo de acordo com a realidade para a IA utilizada de forma gratuita.

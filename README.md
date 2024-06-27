@@ -38,7 +38,7 @@ Por meio da IA D-ID utilizei uma foto minha para fazer um vídeo em formato real
 
 ## 🚀 Resultados
 Foi obtido um vídeo em que me apresento e falo sobre o bootcamp no qual estou participando.
-<a href="https://github.com/Zlinkuei/Apresenta-o-IA-ou-Fake-/blob/main/video%20zielle.mp4" title="View PDF now"> Clique aqui para assistir</a>
+
 
 ## 💭 Reflexão
 O maior desafio é trazer um vídeo realista por meio de uma foto , visto que para criar vídeos melhores a maioria das IAS nesse gênero são pagas em dolar,

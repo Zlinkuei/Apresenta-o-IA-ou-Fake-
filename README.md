@@ -26,7 +26,7 @@ Inteligência Artificial e Zielle: O Futuro da Tecnologia
 
 ## 📒 Descrição
 Este projeto mostra a utilização de uma inteligência artificial para fazer videos realistas apartir de fotos,
-foi utilizada a IA D-ID para fazer o vídeo, essa tarefa foi feita para um projeto do Santander Bootcamp ,Fundamentos de IA
+foi utilizada a IA D-ID para fazer o vídeo, essa tarefa foi feita para um projeto do Santander Bootcamp Fundamentos de IA
 para desenvolvedores.
 
 ## 🤖 Tecnologias Utilizadas

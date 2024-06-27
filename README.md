@@ -44,6 +44,5 @@ O maior desafio é trazer um vídeo realista por meio de uma foto , visto que pa
 é díficil criar um realismo de acordo com a realidade para a IA utilizada de forma gratuita.
 ```
 
-### Exemplos e Insigths
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+
 
